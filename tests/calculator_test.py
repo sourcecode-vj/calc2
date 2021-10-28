@@ -25,6 +25,7 @@ def test_calculator_subtract():
     calc = Calculator()
     calc.subtract_number(1)
     assert calc.get_result() == -1
+
 def test_calculator_multiply():
     """ tests multiplication of two numbers"""
     calc = Calculator()
