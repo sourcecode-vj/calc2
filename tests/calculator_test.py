@@ -2,7 +2,6 @@
 import pytest
 from calc.calculator import Calculator
 from calc.history.calculations import Calculations
-
 @pytest.fixture
 def clear_history_fixture():
     """define a function that will run each time you pass it to a test, it is called a fixture"""
