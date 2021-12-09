@@ -1,12 +1,4 @@
 # Calculator Project Setup
-[![Build Status](https://app.travis-ci.com/praneethgovada/calc2.svg?branch=refactor)](https://app.travis-ci.com/praneethgovada/calc2)
-Run Pip Install
-pip install -r requirements.txt
+![CSV_1](https://user-images.githubusercontent.com/90281068/145310667-fc3072e9-aa28-4e41-9968-e733a58c9ef6.png)
+![csv](https://user-images.githubusercontent.com/90281068/145310668-3eee1cb2-a5ac-438b-9c77-6f45df0bcf9c.jpg)
 
-To run tests, Lint, and Coverage report use this command:
-
-pytest  --pylint --cov
-
-.pylintrc is the config for pylint
-.coveragerc is the config for coverage
-setup.py is a config file for pytest
